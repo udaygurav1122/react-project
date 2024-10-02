@@ -1,6 +1,7 @@
 import React, { useRef } from 'react'
 import IMG from '../public/img.png'
 
+
 const Nav = () => {
     let theme = useRef();
 
@@ -35,7 +36,7 @@ const Nav = () => {
                     <div></div>
                     <div></div>
                 </div>
-                <h1>VideoZone</h1>
+                <h1>Uday Gurav</h1>
             </div>
             <div id='search'>
                 <input type="search" name="" id="" />

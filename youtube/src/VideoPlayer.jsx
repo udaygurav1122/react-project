@@ -73,8 +73,8 @@ const VideoPlayer = ({ data, play, handlePlay }) => {
                         <img src={IMG} alt='' />
 
                         <div>
-                            <p>@drharshvardhanmehta 1 year ago</p>
-                            <p>Ford Wale aapko bulayenge. America ki trip pakki. Aap acche aur sacche insan hai. Lagan   bhi khub hai. Zindadil or khushmizaz. God bless.</p>
+                            <p>@drharshvardhanmehta 2 days ago</p>
+                            <p>🌹🌹🌹🌹🌹</p>
                         </div>
                     </div>
 
@@ -82,8 +82,8 @@ const VideoPlayer = ({ data, play, handlePlay }) => {
                         <img src={IMG} alt='' />
 
                         <div>
-                            <p>@sureshchiruvella1850 1 year ago</p>
-                            <p>Knowledge+hardwork+honesty makes u a special person. Kudos to u hats off</p>
+                            <p>@sureshchiruvella1850 4 days ago</p>
+                            <p>✨✨✨✨✨</p>
                         </div>
                     </div>
 
@@ -91,10 +91,8 @@ const VideoPlayer = ({ data, play, handlePlay }) => {
                         <img src={IMG} alt='' />
 
                         <div>
-                            <p>@rahul67338  1 year ago</p>
-                            <p>असम्भव का दूसरा नाम मुकेश भाई दिल खुश कर दिया
-                                भाई आप तो गाड़ी के डॉक्टर हो
-                                गाड़ी डरती है की अब तो सही हो कर ही आना पड़ेगा </p>
+                            <p>@rahul67338  10 days ago</p>
+                            <p> ✨✨super song ✨✨</p>
                         </div>
                     </div>
 
@@ -102,9 +100,8 @@ const VideoPlayer = ({ data, play, handlePlay }) => {
                         <img src={IMG} alt='' />
 
                         <div>
-                            <p>@himanshuvlogs8332  4 days ago</p>
-                            <p>मुकेश सर के सामने सब संभव है
-                                प्राउड आप बहुत अच्छे और ईमानदार मैकेनिक हो सर</p>
+                            <p>@himanshuvlogs8332 12 days ago</p>
+                            <p>super song.............</p>
                         </div>
                     </div>
 
@@ -112,8 +109,8 @@ const VideoPlayer = ({ data, play, handlePlay }) => {
                         <img src={IMG} alt='' />
 
                         <div>
-                            <p>@ganeshsolunke9767  1 year ago</p>
-                            <p>मुकेश भाई मेरा नाम गणेश देशमुख है मै महाराष्ट्र से हू मै तुमरे बहुतसे व्हिडीओ देक ता हू आप बहोत इमानदारी और इज्जत से काम करते हो इस लिये मेरे तरपसे आप सलाम</p>
+                            <p>@ganeshsolunke9767 15days ago</p>
+                            <p>super........</p>
                         </div>
                     </div>
 
@@ -121,8 +118,8 @@ const VideoPlayer = ({ data, play, handlePlay }) => {
                         <img src={IMG} alt='' />
 
                         <div>
-                            <p>@ahsanarmaan1111   1 year ago</p>
-                            <p>Mukesh bhai ap Ki Team Ke Liye Koi mushkil nahi hai Best Team Hai Kasam Se yaar Ap Ki Team Koi bhe kesi Bhe Gari Le gi Woh Pura Kam Karti hai Mukesh bhai ke Team India Ki No.1 Best Team hai.</p>
+                            <p>@ahsanarmaan1111 18 days ago</p>
+                            <p> 💚💚💚💚 </p>
                         </div>
                     </div>
                 </div>
@@ -142,9 +139,7 @@ const VideoPlayer = ({ data, play, handlePlay }) => {
                                     <p>{d.views} Views {d.uploadTime}</p>
 
                                 </div>
-
-
-                            </div>
+                              </div>
 
                         )
                     })
