@@ -11,7 +11,7 @@
     color: white;
   
     header{
-      background-color: #292A2B;
+      background-color: #4a44034c;
       color: white;
     }
   
@@ -65,10 +65,7 @@
             cursor: pointer;
             
           }
-  
         }
-  
-        
       }
     }
     #author{
@@ -184,7 +181,7 @@
   
     #lefts {
   
-      cursor: pointer;
+      cursor:pointer;
       gap: 6px;
       width: 30vw;
       display: flex;
@@ -227,7 +224,7 @@
         height: 28px;
         width: 400px;
         margin-left: -100px;
-        background-color: rgb(41, 42, 43);
+        background-color:  #4a44034c;
         border: 1px solid rgb(107, 103, 103);
         border-top-left-radius: 4px;
         border-bottom-left-radius: 4px;
